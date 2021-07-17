@@ -1,7 +1,7 @@
 # Hi there. I am Mainak Das 👋 . Welcome to my Profile!!!
 
 - 🔭 I am currently student, will be graduating on 2021.
-- Knowledgeable in: React, CSS, JavaScript, Redux
+- 🤔 Knowledgeable in: React, CSS, JavaScript, Redux
 - 🌱 Currently experimenting with: Next.JS, TailwindCSS
 - 💬 Ask me about: JavaScript, React, CSS.
 - 😄 Pronouns: He/Him.
